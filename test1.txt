@@ -2,3 +2,5 @@
 test1
 
 backup push
+
+backup2 pull
