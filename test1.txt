@@ -4,3 +4,9 @@ test1
 backup push
 
 backup2 pull
+
+git log --all -graph --oneline
+
+branch main
+
+
